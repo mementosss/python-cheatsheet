@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-def convert_table(lines):
+fidasdense onvert_table(lines):
     def from_ascii():
         out = []
         first, header, third, *body, last = lines
